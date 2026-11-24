@@ -34,8 +34,8 @@
 首先，克隆该仓库到本地：
 
 ```bash
-git clone https://github.com/LQ719/Smart-Car-Project.git
-cd 24H-Self-driving-car
+git clone https://github.com/LQ719/2024-NUEDC-H-Smart-Car.git
+cd 2024-NUEDC-H-Smart-Car
 ```
 
 ### 2. 运行项目
